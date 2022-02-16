@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBTN">#101010</color>
+    <color name="clearBTN">#FF9900</color>
+    <color name="backspaceBTN">#808080</color>
+    <color name="equalBTN">#008080</color>
+    <color name="appBackground">#293133</color>
+</resources>
